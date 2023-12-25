@@ -10,18 +10,6 @@
       "BACKGROUND_ACCENT": [
       "#f38ba8"
       ],
-      "BACKGROUND_MENTIONED": [
-      "#313244"
-      ],   
-      "BACKGROUND_MENTIONED_HOVER": [   
-      "#6c7086"
-      ],
-      "BACKGROUND_MESSAGE_HIGHLIGHT": [     
-      "#f7949414"
-      ],
-      "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
-      "#9399b2"
-      ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#9399b2"
       ],
@@ -82,12 +70,6 @@
       "INTERACTIVE_NORMAL": [
       "#9399b2"
       ],
-      "MENTION_BACKGROUND": [
-      "#fab387"
-      ],
-      "MENTION_FOREGROUND": [
-      "#181825"
-      ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#11111b"
       ],
@@ -138,16 +120,17 @@
       "BRAND_260": "#f5e0dc",
       "BRAND_360": "#a6e3a1",
       "BRAND_500": "#cba6f7",
+      "BRAND_560": "#6c7086",
       "GREEN_360": "#a6e3a1",
       "PRIMARY_100": "#cdd6f4",
+      "PRIMARY_230": "#b4befe",
       "PRIMARY_300": "#1e1e2e",
       "PRIMARY_360": "#f2cdcd",
       "PRIMARY_400": "#b4befe",
       "PRIMARY_460": "#181825",
       "PRIMARY_500": "#cdd6f4",
-      "BRAND_560": "#6c7086",
       "PRIMARY_600": "#1e1e2e",
-      "PRIMARY_645": "45475a",
+      "PRIMARY_645": "#45475a",
       "PRIMARY_630": "#1e1e2e",
       "PRIMARY_660": "#11111b",
       "PRIMARY_700": "#11111b",
@@ -240,8 +223,7 @@
       "YELLOW_830": "#f9e2af",
       "YELLOW_860": "#f9e2af",
       "YELLOW_900": "#f9e2af",
-      "WHITE_500": "#1e1e2e",
-      "WHITE_630": "#a89984"
+      "WHITE_500": "#1e1e2e"
     },
     "plus":{
        "version":"0",
