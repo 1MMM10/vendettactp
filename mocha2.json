@@ -224,7 +224,8 @@
       "YELLOW_830": "#f9e2af",
       "YELLOW_860": "#f9e2af",
       "YELLOW_900": "#f9e2af",
-      "BRABD_260": "#f9e2af",
+       "ORANGE_345": "#fab387",
+       "BLUE_345" : "89b4fa",
       "WHITE_500": "#1e1e2e"
     },
     "plus":{
