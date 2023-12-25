@@ -10,6 +10,18 @@
       "BACKGROUND_ACCENT": [
       "#f38ba8"
       ],
+      "BACKGROUND_MENTIONED": [
+      "#313244"
+      ],   
+      "BACKGROUND_MENTIONED_HOVER": [   
+      "#6c7086"
+      ],
+      "BACKGROUND_MESSAGE_HIGHLIGHT": [     
+      "#f7949414"
+      ],
+      "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
+      "#9399b2"
+      ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#9399b2"
       ],
@@ -69,6 +81,12 @@
       ],
       "INTERACTIVE_NORMAL": [
       "#9399b2"
+      ],
+      "MENTION_BACKGROUND": [
+      "#fab387"
+      ],
+      "MENTION_FOREGROUND": [
+      "#181825"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#11111b"
@@ -223,6 +241,7 @@
       "YELLOW_830": "#f9e2af",
       "YELLOW_860": "#f9e2af",
       "YELLOW_900": "#f9e2af",
+      "BRABD_260": "#f9e2af",
       "WHITE_500": "#1e1e2e"
     },
     "plus":{
@@ -239,3 +258,4 @@
 },
     "spec": 2
     }
+
